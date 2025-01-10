@@ -4,5 +4,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hi-Tech-Mechanic&show_icons=true&theme=algolia)
 
-``` [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)
+- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)
 
