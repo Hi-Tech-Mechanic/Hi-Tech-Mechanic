@@ -1,3 +1,6 @@
+### My Skills
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  
+
 ### Main repositories
 <a href="https://github.com/Hi-Tech-Mechanic/Hi-Tech-Mechanic.github.io">
   <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=Hi-Tech-Mechanic.github.io&theme=algolia&card_width=400" />
