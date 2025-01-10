@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-Tech-Mechanic&layout=compact&hide=ShaderLab,tcl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-Tech-Mechanic&layout=compact&hide=ShaderLab,tcl&langs_count=20)
 
 <!--
 **Hi-Tech-Mechanic/Hi-Tech-Mechanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
