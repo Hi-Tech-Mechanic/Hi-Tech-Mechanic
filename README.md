@@ -53,12 +53,12 @@
 
 <div align="center">
   <h2><img src="https://i.gifer.com/Ocko.gif" width="30px"> My GitHub Summary</h2>
-  <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-Tech-Mechanic&layout=donut&theme=algolia&hide=ShaderLab,tcl" /><br/><br/>
-  <img height=220 src="https://github-readme-stats.vercel.app/api?username=Hi-Tech-Mechanic&show_icons=true&theme=algolia&rank_icon=percentile&include_all_commits" /><br/><br/>
-  <img height=220 src="https://github-readme-streak-stats.herokuapp.com/?user=Hi-Tech-Mechanic&theme=algolia&hide_border=false" /><br/><br/>
-  <img height=220 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hi-Tech-Mechanic&theme=algolia"><br/><br/>
+  <img height=220 alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-Tech-Mechanic&layout=donut&theme=algolia&hide=ShaderLab,tcl" /><br/><br/>
+  <img height=220 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hi-Tech-Mechanic&show_icons=true&theme=algolia&rank_icon=percentile&include_all_commits" /><br/><br/>
+  <img height=220 alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hi-Tech-Mechanic&theme=algolia&hide_border=false" /><br/><br/>
+  <img height=220 alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiTechMechanic&theme=algolia"><br/><br/>
+  <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=HiTechMechanic&layout=compact&theme=algolia"><br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Hi-Tech-Mechanic&theme=algolia&column=5&margin-w=15&&margin-h=15">
-  
 </div>
 
 <div align="center">
