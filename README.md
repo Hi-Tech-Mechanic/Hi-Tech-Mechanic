@@ -35,22 +35,22 @@
 <div align="center">
   <h2><img src="https://i.gifer.com/NIbp.gif" width="30px"> Main Repositories</h2>
   <a href="https://github.com/Hi-Tech-Mechanic/Hi-Tech-Mechanic.github.io">
-    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=Hi-Tech-Mechanic.github.io&theme=algolia&card_width=400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=Hi-Tech-Mechanic.github.io&theme=algolia&card_width=400" />
   </a>
   <a href="https://github.com/Hi-Tech-Mechanic/MultiverseMemes">
-    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=MultiverseMemes&theme=algolia&card_width=400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=MultiverseMemes&theme=algolia&card_width=400" />
   </a>
-    <a href="https://github.com/Hi-Tech-Mechanic/COCOMO">
-    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=COCOMO&theme=algolia&card_width=400" />
+  <a href="https://github.com/Hi-Tech-Mechanic/COCOMO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=COCOMO&theme=algolia&card_width=400" />
   </a>
   <a href="https://github.com/Hi-Tech-Mechanic/RPG-style-character-menu-concept">
-    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=RPG-style-character-menu-concept&theme=algolia&card_width=400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=RPG-style-character-menu-concept&theme=algolia&card_width=400" />
   </a>
   <a href="https://github.com/Hi-Tech-Mechanic/Exolab">
-    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=Exolab&theme=algolia&card_width=400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=Exolab&theme=algolia&card_width=400" />
   </a>
   <a href="https://github.com/Hi-Tech-Mechanic/FurnitureShop">
-    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=FurnitureShop&theme=algolia&card_width=400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=FurnitureShop&theme=algolia&card_width=400" />
   </a>
 </div>
 
