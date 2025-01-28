@@ -40,6 +40,9 @@
   <a href="https://github.com/Hi-Tech-Mechanic/MultiverseMemes">
     <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=MultiverseMemes&theme=algolia&card_width=400" />
   </a>
+    <a href="https://github.com/Hi-Tech-Mechanic/COCOMO">
+    <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=COCOMO&theme=algolia&card_width=400" />
+  </a>
   <a href="https://github.com/Hi-Tech-Mechanic/RPG-style-character-menu-concept">
     <img height=125 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=RPG-style-character-menu-concept&theme=algolia&card_width=400" />
   </a>
