@@ -17,7 +17,6 @@
   <a href="https://webpack.js.org/" target="_blank"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=black&logoSize=auto"></a>
   <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white&logoSize=auto"></a>
   <a href="https://getbem.com/"><img alt="BEM" src="https://img.shields.io/badge/bem-%23ffffff?style=for-the-badge&logo=bem&logoColor=%23000000&logoSize=auto"></a>
-  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto"></a>
   <a href="https://www.json.org/json-en.html"><img alt="JSON" src="https://img.shields.io/badge/JSON-%23ffffff?style=for-the-badge&logo=JSON&logoColor=%23000000&logoSize=auto"></a>
   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"></a>
   <a href="https://learn.microsoft.com/ru-ru/aspnet/core/blazor/?view=aspnetcore-9.0" target="_blank"><img alt="Blazor" src="https://img.shields.io/badge/Blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white&logoSize=auto"></a>
