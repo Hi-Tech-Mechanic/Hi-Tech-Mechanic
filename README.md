@@ -1,10 +1,10 @@
 <div align="center">
-  <h1><img src="https://i.gifer.com/SVKl.gif" width="30px"> Hey there <img src="https://i.gifer.com/SVKl.gif" width="30px"></h1>
+  <h1>Hey there</h1>
   <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=04EDF8&size=25&center=true&vCenter=true&width=900&height=70&lines=I+love+developing+cross-platform+games,+websites,+web+applications;I+also+publish+open+source+projects;Nice+to+meet+you!;На+самом+деле+я+программист+личинка-червь-дединсайд☠️"></a>
 </div>
 
 <div align="center">
-  <h2><img src="https://i.gifer.com/fxVE.gif" width="30px"> Part Of My Skills</h2>
+  <h2>Part Of My Skills</h2>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logoSize=auto&logoSize=auto"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
   <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&logoSize=auto""></a>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <h2><img src="https://i.gifer.com/NIbp.gif" width="30px"> Main Repositories</h2>
+  <h2>Main Repositories</h2>
   <a href="https://github.com/Hi-Tech-Mechanic/Hi-Tech-Mechanic.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hi-Tech-Mechanic&repo=Hi-Tech-Mechanic.github.io&theme=algolia&card_width=400" />
   </a>
